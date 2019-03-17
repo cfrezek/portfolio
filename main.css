@@ -1,4 +1,12 @@
+* {
+    box-sizing: border-box;
+  }
 
+  body {
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+  }
 .nav {
     background-color: lightgrey;
 }
@@ -9,6 +17,7 @@
 
 .project-one {
     background-color: lightgrey;
+    min-height: 200px;
 }
 
 .footer {
