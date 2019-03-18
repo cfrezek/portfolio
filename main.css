@@ -13,6 +13,7 @@
 
 .bio {
     background-color: darkgray;
+    min-height: 100px;
 }
 
 .project-one {
@@ -21,5 +22,5 @@
 }
 
 .footer {
-    background-color: lightgrey;
+    background-color: darkgray;
 }
